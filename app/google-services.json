@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "785033510565",
+    "project_id": "astromovie-271f3",
+    "storage_bucket": "astromovie-271f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785033510565:android:81679a82063bd29f2d174c",
+        "android_client_info": {
+          "package_name": "com.yasinatagun.astromovie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785033510565-t2q0ff2djvs4ja7d7hkpkb3hfmtbnkqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqgnJMZTMzlYRpkG7ktSqzBM2LUwOZaFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785033510565-t2q0ff2djvs4ja7d7hkpkb3hfmtbnkqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
